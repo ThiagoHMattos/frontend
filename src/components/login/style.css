@@ -1,0 +1,17 @@
+body {
+    background-color: #046423; /* Altere o último valor para ajustar a transparência */
+    margin: 0; /* Remove margens padrão do body */
+    padding: 0; /* Remove preenchimento padrão do body */
+    font-family: Arial, sans-serif; /* Altere a fonte de acordo com sua preferência */
+  }
+  
+  /* Adicione a imagem de canto a canto da tela */
+  .background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Coloca a imagem no fundo */
+    opacity: 0.5; /* Ajuste a opacidade da imagem */
+  }

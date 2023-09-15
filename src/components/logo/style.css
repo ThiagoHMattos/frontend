@@ -1,0 +1,8 @@
+.logo {
+    background-color: #046423;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #046423;
+}
